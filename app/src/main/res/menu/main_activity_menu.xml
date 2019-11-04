@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/toolsItem"
+        android:title="@string/tools">
+        <menu>
+            <item
+                android:title="@string/clean_canvas"
+                android:id="@+id/cleanCanvasItem" />
+            <item
+                android:title="@string/delete"
+                android:id="@+id/deleteItem" />
+            <item
+                android:title="@string/share"
+                android:id="@+id/shareItem" />
+            <item
+                android:title="@string/paint_size"
+                android:id="@+id/paintSizeItem" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/paletteItem"
+        android:title="@string/palette" />
+</menu>

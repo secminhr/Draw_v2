@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Draw_v2</string>
+    <string name="paint_brush">笔刷</string>
+    <string name="eraser">橡皮擦</string>
+    <string name="clean_canvas">清空画面</string>
+    <string name="save">储存</string>
+    <string name="delete">删除</string>
+    <string name="share">分享</string>
+    <string name="paint_size">笔刷大小</string>
+    <string name="eraserSize">橡皮擦大小</string>
+    <string name="tools">工具箱</string>
+    <string name="palette">调色盘</string>
+    <string name="set_paint_size">设定笔刷大小</string>
+    <string name="set_eraser_size">设定橡皮擦大小</string>
+    <string name="done">好了</string>
+    <string name="r">红</string>
+    <string name="g">绿</string>
+    <string name="b">蓝</string>
+    <string name="the_image_deleted">图片已被删除</string>
+    <string name="delete_image">删除图片</string>
+    <string name="sure_to_delete">要删除图片?</string>
+    <string name="fail_to_delete">图片删除失败</string>
+    <string name="permission_write_storage">我们需要权限来储存、删除和分享您的图片</string>
+    <string name="update_available">App可以更新</string>
+    <string name="update_alert_message">现在更新吗？</string>
+</resources>

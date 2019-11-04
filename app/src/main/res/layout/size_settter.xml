@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id = "@+id/sizeSetterRelativeLayout">
+
+    <SeekBar
+        android:id="@+id/sizeSetterSeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:indeterminate="false"
+        android:longClickable="false"
+        android:max="100"
+        android:maxHeight="36dp"
+        android:minHeight="36dp" />
+
+    <com.sec.chang.draw_v2.PreviewPaintSizeCanvas
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/view" />
+
+</LinearLayout>

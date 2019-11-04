@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Draw_v2</string>
+    <string name="paint_brush">Paint Brush</string>
+    <string name="eraser">Eraser</string>
+    <string name="clean_canvas">Clean Canvas</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="paint_size">Paint Size</string>
+    <string name="eraserSize">Eraser Size</string>
+    <string name="tools">Tools</string>
+    <string name="palette">Palette</string>
+    <string name="set_paint_size">Set Paint Size</string>
+    <string name="set_eraser_size">Set Eraser Size</string>
+    <string name="done">DONE</string>
+    <string name="r">R</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="the_image_deleted">The image deleted</string>
+    <string name="delete_image">Delete Image File</string>
+    <string name="sure_to_delete">Delete the file?</string>
+    <string name="fail_to_delete">Delete the file unsuccessfully</string>
+    <string name="permission_write_storage">We need the permission to save, delete and share your image</string>
+    <string name="update_available">New version of the app is available</string>
+    <string name="update_alert_message">Do you want to download it now?</string>
+</resources>
